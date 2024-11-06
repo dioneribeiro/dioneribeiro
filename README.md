@@ -19,13 +19,13 @@ Me chamo Dione Ribeiro Niza. Estudante de programação e cursando Analise e Des
             src="https://custom-icon-badges.demolab.com/github/followers/dioneribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a target='_blank' href="https://instagram.com/dione-ribeiro-niza-0b0814113">
+    <a target='_blank' href="https://instagram.com/dioneniza">
         <img 
             title="Me siga no Instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         >
     </a>
-    <a target='_blank' href="https://linkedin.com/in/danielheart">
+    <a target='_blank' href="https://linkedin.com/in/dione-ribeiro-niza-0b0814113">
         <img
             title="Me siga no Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
